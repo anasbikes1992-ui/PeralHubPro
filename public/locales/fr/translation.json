@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "Bon retour",
+    "search": "Rechercher",
+    "list_property": "Lister une propriété",
+    "list_stay": "Lister un séjour",
+    "list_vehicle": "Lister un véhicule",
+    "host_event": "Organiser un événement"
+  },
+  "nav": {
+    "stays": "Séjours",
+    "vehicles": "Véhicules",
+    "events": "Événements",
+    "property": "Immobilier",
+    "social": "Social",
+    "sme": "PME"
+  },
+  "home": {
+    "hero_title": "Marché de luxe n°1 au Sri Lanka",
+    "hero_subtitle": "Découvrez des propriétés, des séjours, des véhicules et des événements."
+  }
+}

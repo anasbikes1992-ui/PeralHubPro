@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://pearlhub.lk/sitemap.xml
+
+# Restricted
+Disallow: /admin
+Disallow: /provider
+Disallow: /api

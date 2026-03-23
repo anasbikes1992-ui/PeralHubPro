@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "Willkommen zurück",
+    "search": "Suche",
+    "list_property": "Immobile inserieren",
+    "list_stay": "Unterkunft inserieren",
+    "list_vehicle": "Fahrzeug inserieren",
+    "host_event": "Event veranstalten"
+  },
+  "nav": {
+    "stays": "Unterkünfte",
+    "vehicles": "Fahrzeuge",
+    "events": "Events",
+    "property": "Immobilien",
+    "social": "Social",
+    "sme": "KMU"
+  },
+  "home": {
+    "hero_title": "Sri Lankas Luxus-Marktplatz Nr. 1",
+    "hero_subtitle": "Entdecken Sie Immobilien, Unterkünfte, Fahrzeuge und Events."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "おかえりなさい",
+    "search": "検索",
+    "list_property": "物件を掲載する",
+    "list_stay": "宿泊施設を掲載する",
+    "list_vehicle": "車両を掲載する",
+    "host_event": "イベントを開催する"
+  },
+  "nav": {
+    "stays": "宿泊施設",
+    "vehicles": "車両",
+    "events": "イベント",
+    "property": "不動産",
+    "social": "ソーシャル",
+    "sme": "ビジネス"
+  },
+  "home": {
+    "hero_title": "スリランカNo.1ラグジュアリーマーケットプレイス",
+    "hero_subtitle": "不動産、宿泊施設、車両、イベントを探索しましょう。"
+  }
+}

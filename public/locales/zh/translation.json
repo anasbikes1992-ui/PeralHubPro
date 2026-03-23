@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "欢迎回来",
+    "search": "搜索",
+    "list_property": "发布房产",
+    "list_stay": "发布住宿",
+    "list_vehicle": "发布车辆",
+    "host_event": "举办活动"
+  },
+  "nav": {
+    "stays": "住宿",
+    "vehicles": "车辆",
+    "events": "活动",
+    "property": "房产信息",
+    "social": "社交",
+    "sme": "中小企业"
+  },
+  "home": {
+    "hero_title": "斯里兰卡第一奢华交易平台",
+    "hero_subtitle": "探索房产、住宿、车辆和活动。"
+  }
+}

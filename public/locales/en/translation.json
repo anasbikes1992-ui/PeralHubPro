@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "Welcome back",
+    "search": "Search",
+    "list_property": "List Property",
+    "list_stay": "List Stay",
+    "list_vehicle": "List Vehicle",
+    "host_event": "Host Event"
+  },
+  "nav": {
+    "stays": "Stays",
+    "vehicles": "Vehicles",
+    "events": "Events",
+    "property": "Property",
+    "social": "Social",
+    "sme": "SME"
+  },
+  "home": {
+    "hero_title": "Sri Lanka's #1 Luxury Marketplace",
+    "hero_subtitle": "Discover properties, stays, vehicles and events."
+  }
+}
